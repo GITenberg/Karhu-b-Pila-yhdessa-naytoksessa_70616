@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
     wikipedia: https://fi.wikipedia.org/wiki/Reino_Silvanto
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -29,6 +32,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Anton_T%C5%A1ehov
 description: 'Translation of Медведь: Шутка в одном действии (Medved'': Shutka v odnom
   deystvii)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70616#Karhu-b-Pila-yhdessa-naytoksessa
 gutenberg_issued: '2023-04-22'
 identifiers:
   gutenberg: '70616'
